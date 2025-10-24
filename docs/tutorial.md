@@ -71,9 +71,9 @@ fmpy --help
 ## Advanced Usage
 
 To learn more about how to use FMPy in you own scripts take a look at the
-[coupled_clutches.py](https://github.com/CATIA-Systems/FMPy/blob/master/fmpy/examples/coupled_clutches.py),
-[custom_input.py](https://github.com/CATIA-Systems/FMPy/blob/master/fmpy/examples/custom_input.py) and
-[parameter_variation.py](https://github.com/CATIA-Systems/FMPy/blob/master/fmpy/examples/parameter_variation.py) examples.
+[coupled_clutches.py](https://github.com/CATIA-Systems/FMPy/blob/master/src/fmpy/examples/coupled_clutches.py),
+[custom_input.py](https://github.com/CATIA-Systems/FMPy/blob/master/src/fmpy/examples/custom_input.py) and
+[parameter_variation.py](https://github.com/CATIA-Systems/FMPy/blob/master/src/fmpy/examples/parameter_variation.py) examples.
 
 ## Debugging C code FMUs
 
@@ -98,3 +98,4 @@ FMPy can generate [CMake](https://cmake.org/) projects for C code FMUs that allo
 - Set a breakpoint
 
 - Run the simulation in the FMPy GUI and start debugging
+
